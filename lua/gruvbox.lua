@@ -1012,7 +1012,7 @@ local function get_groups()
     ["@constant.macro"] = { link = "Define" },
     ["@markup"] = { link = "GruvboxFg1" },
     ["@markup.strong"] = { bold = config.bold },
-    ["@markup.emphasis"] = { italic = config.italic.emphasis },
+    ["@markup.italic"] = { italic = config.italic.emphasis },
     ["@markup.underline"] = { underline = config.underline },
     ["@markup.strikethrough"] = { strikethrough = config.strikethrough },
     ["@markup.heading"] = { link = "Title" },
